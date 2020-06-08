@@ -48,6 +48,8 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 ## Functional Components
 
+## MVP
+
 | Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
 | --- | :---: |  :---: | :---: | :---: |
 | Research |	H	| 3	| 0 |	0 |
@@ -60,7 +62,10 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 | Create Contact Form	| H |	2 | 0 | 0 |	
 | Create About Me	| M |	1 | 0 | 0 |	
 | Hamburger	| H |	2 | 0 | 0 |
+
 ## Post MVP
+
+| Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
 | --- | :---: |  :---: | :---: | :---: |
 | Proj Nav with jQuery Filter	| M |	3 | 0 | 0 |
 | Lightbox on Projects	| M |	2 | 0 | 0 |		
