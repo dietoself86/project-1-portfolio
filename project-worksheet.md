@@ -33,33 +33,18 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 |Deliverable	| Status	| Time Spent |
 | --- | :---: |  :---: | 
-| Friday, Mar 6 | Research ideas & GIF fun	| Complete 	| 1 hr |
-| Sat, Mar 7 | Wireframes / Priority Matrix / Timeline	| Complete	| 3 hrs |
-| Sun, Mar 8 | HTML built	| Complete | 30 min |
-| Mon, Mar 9 | Compile List of Projects	| Complete | 3 hrs |
-| Mon, Mar 9 | Research & Implement Grid and Flexbox to Structure w/ CSS	| Complete | 7.5 hrs |	
+| Fri, Jun 5 | Clone project repos	| Complete 	| .5 hr |
+| Sun, Jun 7 | Wireframes / Priority Matrix / Timeline	| Complete	| 2 hrs |
+| Mon, Jun 8 | Lectures(API Call & Bootstrap)	| Incomplete | 2 hrs |
+| Mon, Jun 8 | Define HTML structure	| Incomplete | 1 hrs |
+| Mon, Mar 9 | Research & Implement Grid and Flexbox to Structure w/ CSS | Incomplete | 5 hrs |	
 | Mon, Mar 9 | Implement Tablet & Desktop Versions w CSS | Complete | 7 hrs |		
-| Tues, Mar 10 | Create Contact Form w Jquery	| Complete | 3 hrs |
-| Wed, Mar 11 | Create About Me	 | Complete | 2 hrs |		
+| Tues, Jun 9 | Create Contact Form w Jquery	| Complete | 3 hrs |
+| Wed, Jun 10 | Create About Me	 | Complete | 2 hrs |		
 | Wed, Mar 11 | Implement Project Navigation with Jquery filter | Complete | 7 hrs |
-| Thurs, Mar 12 | Create Hamburger Header | Complete  | 3 hrs |		
-| Fri, Mar 13 | Side-bar navigation with icon images	 | Complete | 1 hr |		
- Sun, Mar 15 | Finalize GitHub Documentation  | Complete | 2 hrs |		
-
-### MVP/PostMVP - 5min
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
-
-#### MVP (examples)
-
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
-
-#### PostMVP 
-
-- Anything else that is not MVP
+| Thurs, Jun 11 | Create Hamburger Header | Complete  | 3 hrs |		
+| Fri, Jun 12 | Side-bar navigation with icon images	 | Complete | 1 hr |		
+ Sun, Jun 14 | Finalize GitHub Documentation  | Complete | 2 hrs |		
 
 ## Functional Components
 
@@ -100,7 +85,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 | Total | H | 15.5hrs| -hrs | -hrs |
 
 #### PostMVP
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Project Hover | L | 3hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
