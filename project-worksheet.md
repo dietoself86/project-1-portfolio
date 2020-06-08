@@ -36,7 +36,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 | Mon, Jun 8 | Define HTML structure	| Incomplete | 1 hrs |
 | Mon, Jun 8 | Research & Implement Grid and Flexbox to Structure w/ CSS | Incomplete | 3 hrs |	
 | Tues, Jun 9 | Implement Tablet & Desktop Versions w CSS | Incomplete | 3 hrs |		
-| Tues, Jun 9 | Create Contact Form w Jquery	| Incomplete | 3 hrs |
+| Tues, Jun 9 | Create Contact Form	| Incomplete | 3 hrs |
 | Wed, Jun 10 | Create About Me	 | Incomplete | 1 hrs |	
 | Wed, Jun 10 | Edit Project Images	| Incomplete | 2 hrs |
 | Thurs, Jun 11 | Implement Project Navigation with Jquery filter | Incomplete | 7 hrs |
@@ -50,24 +50,25 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 | Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
 | --- | :---: |  :---: | :---: | :---: |
-| Research |	H	| 0.5	| 0 |	0 |
+| Research |	H	| 3	| 0 |	0 |
 | Admin setup	| H	| 1	| 0	| 0 |
-| Wire drawing	| H |	0.5	| 0	| 0 |
+| Wire drawing	| H 	| 1	| 0	| 0 |
 | Research Grid & Flex 	| H	| 1	| 0	| 0 |
 | Compile List of Proj	| H	| 1	| 0 | 0 |
-| Implement Grid & Flex	| H	| 2	| 0 | 0 |
-| Implement Mobile Responsiveness	| H	| 2 | 0 | 0 |		
-| Create Contact Form w Jquery	| H |	1 | 0 | 0 |	
+| Implement Grid & Flex	| H	| 3	| 0 | 0 |
+| Implement Mobile Responsiveness	| H	| 3 | 0 | 0 |		
+| Create Contact Form	| H |	2 | 0 | 0 |	
 | Create About Me	| M |	1 | 0 | 0 |	
-| Proj Nav with jQuery Filter	| H |	3 | 0 | 0 |	
-| Hamburger	| H |	1 | 0 | 0 |		
+| Hamburger	| H |	2 | 0 | 0 |
+## Post MVP
+| Proj Nav with jQuery Filter	| M |	3 | 0 | 0 |
 | Lightbox on Projects	| M |	2 | 0 | 0 |		
 | CSS card animations	| M |	2 | 0 | 0 |		
 | CSS text animations	| L |	2 | 0 | 0 |			
-| Lottiefiles Animations	| L |	6 | 0 | 0 |	
-| Finalize Video & Git Hub Docs	| H |	1 | 0 | 0 |	
+| Lottiefiles Animations	| L |	1 | 0 | 0 |	
+| Finalize Video & Git Hub Docs	| H |	2 | 0 | 0 |	
 |				
-|TOTAL |	| Estimated -- hrs for MVP	| -- hrs invested |	-- hrs spent | 
+|TOTAL |	| Estimated 14 hrs for MVP | PostMVP 12 hrs	| -- hrs invested |	-- hrs spent | 
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
