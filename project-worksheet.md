@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Personal portfolio site showcasing my web development projects & some of my previous work.
 
 ## Google Sheet
 
@@ -26,28 +26,25 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
-
-Wireframing Resources:
-
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
 
 
 ## Time/Priority Matrix 
 
-[Link]()
-
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
-
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
-
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
-
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
+|Deliverable	| Status	| Time Spent |
+| --- | :---: |  :---: | 
+| Friday, Mar 6 | Research ideas & GIF fun	| Complete 	| 1 hr |
+| Sat, Mar 7 | Wireframes / Priority Matrix / Timeline	| Complete	| 3 hrs |
+| Sun, Mar 8 | HTML built	| Complete | 30 min |
+| Mon, Mar 9 | Compile List of Projects	| Complete | 3 hrs |
+| Mon, Mar 9 | Research & Implement Grid and Flexbox to Structure w/ CSS	| Complete | 7.5 hrs |	
+| Mon, Mar 9 | Implement Tablet & Desktop Versions w CSS | Complete | 7 hrs |		
+| Tues, Mar 10 | Create Contact Form w Jquery	| Complete | 3 hrs |
+| Wed, Mar 11 | Create About Me	 | Complete | 2 hrs |		
+| Wed, Mar 11 | Implement Project Navigation with Jquery filter | Complete | 7 hrs |
+| Thurs, Mar 12 | Create Hamburger Header | Complete  | 3 hrs |		
+| Fri, Mar 13 | Side-bar navigation with icon images	 | Complete | 1 hr |		
+ Sun, Mar 15 | Finalize GitHub Documentation  | Complete | 2 hrs |		
 
 ### MVP/PostMVP - 5min
 
@@ -66,9 +63,28 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## Functional Components
 
-Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+| Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
+| --- | :---: |  :---: | :---: | :---: |
+| Research |	H	| 0.5	| 1 |	1 |
+| Admin setup	| H	| 1	| 2	| 2 |
+| Wire drawing	| H |	0.5	| 1	| 1 |
+| Research Grid & Flex 	| H	| 1	| 2	| 2 |
+| Compile List of Proj	| H	| 1	| 2 | 2 |
+| Implement Grid & Flex	| H	| 2	| 7 | 7 |
+| Implement Mobile Responsiveness	| H	| 2 | 7 | 7 |		
+| Create Contact Form w Jquery	| H |	1 | 3 | 3 |	
+| Create About Me	| H |	1 | 2 | 2 |	
+| Proj Nav with jQuery Filter	| H |	3 | 7 | 7 |	
+| Hamburger	| H |	1 | 3 | 3 |	
+| Hide Footer	| M |	1 |  |  |	
+| Scroll page pop	| M |	2 |  |  |		
+| Project Card Animation	| M |	2 |  |  |		
+| Side-bar navigation	| M |	2 | 1 | 1 |		
+| Hero Image animation | L |	2 |  |  |	
+| GIF Animation	| L |	6 |  |  |	
+| Finalize Video & Git Hub Docs	| H |	1 | 2 | 2 |	
+|				
+|TOTAL |	| Estimated 30 hrs for MVP	| 40 hrs invested |	40 hrs spent | 
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
