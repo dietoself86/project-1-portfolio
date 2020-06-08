@@ -2,15 +2,12 @@
 
 ## Project Schedule
 
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
-
 |  Day | Deliverable | Status
 |---|---| ---|
 |Day 1| Project Description | Incomplete
 |Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 2| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 3| Continuation of Core Structure | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -18,7 +15,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Personal portfolio site showcasing my web development projects & some of my previous work.
+Personal portfolio site showcasing my web development projects & some of my previous web & graphic design work.
 
 ## Google Sheet
 
@@ -37,42 +34,43 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 | Sun, Jun 7 | Wireframes / Priority Matrix / Timeline	| Complete	| 2 hrs |
 | Mon, Jun 8 | Lectures(API Call & Bootstrap)	| Incomplete | 2 hrs |
 | Mon, Jun 8 | Define HTML structure	| Incomplete | 1 hrs |
-| Mon, Mar 9 | Research & Implement Grid and Flexbox to Structure w/ CSS | Incomplete | 5 hrs |	
-| Mon, Mar 9 | Implement Tablet & Desktop Versions w CSS | Complete | 7 hrs |		
-| Tues, Jun 9 | Create Contact Form w Jquery	| Complete | 3 hrs |
-| Wed, Jun 10 | Create About Me	 | Complete | 2 hrs |		
-| Wed, Mar 11 | Implement Project Navigation with Jquery filter | Complete | 7 hrs |
-| Thurs, Jun 11 | Create Hamburger Header | Complete  | 3 hrs |		
-| Fri, Jun 12 | Side-bar navigation with icon images	 | Complete | 1 hr |		
- Sun, Jun 14 | Finalize GitHub Documentation  | Complete | 2 hrs |		
+| Mon, Jun 8 | Research & Implement Grid and Flexbox to Structure w/ CSS | Incomplete | 3 hrs |	
+| Tues, Jun 9 | Implement Tablet & Desktop Versions w CSS | Incomplete | 3 hrs |		
+| Tues, Jun 9 | Create Contact Form w Jquery	| Incomplete | 3 hrs |
+| Wed, Jun 10 | Create About Me	 | Incomplete | 1 hrs |	
+| Wed, Jun 10 | Edit Project Images	| Incomplete | 2 hrs |
+| Thurs, Jun 11 | Implement Project Navigation with Jquery filter | Incomplete | 7 hrs |
+| Thurs, Jun 11 | Create Hamburger Header | Incomplete  | 3 hrs |		
+| Fri, Jun 12 | Lightbox display of projects	 | Incomplete | 2 hr |
+| Fri, Jun 12 | CSS hover animations for project descriptions	 | Incomplete | 2 hr |
+| Fri, Jun 12 | CSS animations for hero text	 | Incomplete | 2 hr |
+ Sun, Jun 14 | Finalize GitHub Documentation  | Incomplete | 2 hrs |		
 
 ## Functional Components
 
 | Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
 | --- | :---: |  :---: | :---: | :---: |
-| Research |	H	| 0.5	| 1 |	1 |
-| Admin setup	| H	| 1	| 2	| 2 |
-| Wire drawing	| H |	0.5	| 1	| 1 |
-| Research Grid & Flex 	| H	| 1	| 2	| 2 |
-| Compile List of Proj	| H	| 1	| 2 | 2 |
-| Implement Grid & Flex	| H	| 2	| 7 | 7 |
-| Implement Mobile Responsiveness	| H	| 2 | 7 | 7 |		
-| Create Contact Form w Jquery	| H |	1 | 3 | 3 |	
-| Create About Me	| H |	1 | 2 | 2 |	
-| Proj Nav with jQuery Filter	| H |	3 | 7 | 7 |	
-| Hamburger	| H |	1 | 3 | 3 |	
-| Hide Footer	| M |	1 |  |  |	
-| Scroll page pop	| M |	2 |  |  |		
-| Project Card Animation	| M |	2 |  |  |		
-| Side-bar navigation	| M |	2 | 1 | 1 |		
-| Hero Image animation | L |	2 |  |  |	
-| GIF Animation	| L |	6 |  |  |	
-| Finalize Video & Git Hub Docs	| H |	1 | 2 | 2 |	
+| Research |	H	| 0.5	| 0 |	0 |
+| Admin setup	| H	| 1	| 0	| 0 |
+| Wire drawing	| H |	0.5	| 0	| 0 |
+| Research Grid & Flex 	| H	| 1	| 0	| 0 |
+| Compile List of Proj	| H	| 1	| 0 | 0 |
+| Implement Grid & Flex	| H	| 2	| 0 | 0 |
+| Implement Mobile Responsiveness	| H	| 2 | 0 | 0 |		
+| Create Contact Form w Jquery	| H |	1 | 0 | 0 |	
+| Create About Me	| M |	1 | 0 | 0 |	
+| Proj Nav with jQuery Filter	| H |	3 | 0 | 0 |	
+| Hamburger	| H |	1 | 0 | 0 |		
+| Lightbox on Projects	| M |	2 | 0 | 0 |		
+| CSS card animations	| M |	2 | 0 | 0 |		
+| CSS text animations	| L |	2 | 0 | 0 |			
+| Lottiefiles Animations	| L |	6 | 0 | 0 |	
+| Finalize Video & Git Hub Docs	| H |	1 | 0 | 0 |	
 |				
-|TOTAL |	| Estimated 30 hrs for MVP	| 40 hrs invested |	40 hrs spent | 
+|TOTAL |	| Estimated -- hrs for MVP	| -- hrs invested |	-- hrs spent | 
 
 #### MVP
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Hamburger | H | 1hr | 1.5hr | -hr|
 | Project Previews | H | 3hr | -hr | -hr|
