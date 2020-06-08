@@ -19,7 +19,7 @@ Personal portfolio site showcasing my web development projects & some of my prev
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+https://docs.google.com/spreadsheets/d/19acem0qb6QWMs5OZVkp1pvfOE1b2l9pe5mmPj2hviDE/edit?usp=sharing
 
 ## Wireframes
 
