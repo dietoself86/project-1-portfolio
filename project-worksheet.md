@@ -61,6 +61,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 | Create About Me	| M |	1 | 0 | 0 |	
 | Hamburger	| H |	2 | 0 | 0 |
 ## Post MVP
+| --- | :---: |  :---: | :---: | :---: |
 | Proj Nav with jQuery Filter	| M |	3 | 0 | 0 |
 | Lightbox on Projects	| M |	2 | 0 | 0 |		
 | CSS card animations	| M |	2 | 0 | 0 |		
