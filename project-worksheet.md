@@ -23,8 +23,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 ## Wireframes
 
-
-
+https://xd.adobe.com/view/b87a8dc1-340c-4193-5e9b-650c0dd90784-ce4b/
 
 ## Time/Priority Matrix 
 
