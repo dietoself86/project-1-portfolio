@@ -4,10 +4,10 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 2| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 3| Continuation of Core Structure | Incomplete
+|Day 1| Project Description | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
+|Day 2| Core Application Structure (HTML, CSS, etc.) | Complete
+|Day 3| Continuation of Core Structure | Complete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -51,15 +51,15 @@ https://xd.adobe.com/view/b87a8dc1-340c-4193-5e9b-650c0dd90784-ce4b/
 
 | Component | Priority	| Estim Hrs |	Inves. Hrs	| Actual Hrs|
 | --- | :---: |  :---: | :---: | :---: |
-| Research |	H	| 3	| 0 |	0 |
-| Admin setup	| H	| 1	| 0	| 0 |
-| Wire drawing	| H 	| 1	| 0	| 0 |
-| Research Grid & Flex 	| H	| 1	| 0	| 0 |
+| Research |	H	| 3	| 0 |	5 |
+| Admin setup	| H	| 1	| 0	| 1 |
+| Wire drawing	| H 	| 1	| 0	| 1 |
+| Research Grid & Flex 	| H	| 1	| 0	| 1 |
 | Compile List of Proj	| H	| 1	| 0 | 0 |
-| Implement Grid & Flex	| H	| 3	| 0 | 0 |
+| Implement Grid & Flex	| H	| 3	| 0 | 6 |
 | Implement Mobile Responsiveness	| H	| 3 | 0 | 0 |		
-| Create Contact Form	| H |	2 | 0 | 0 |	
-| Create About Me	| M |	1 | 0 | 0 |	
+| Create Contact Form	| H |	2 | 0 | 1 |	
+| Create About Me	| M |	1 | 0 | 1 |	
 | Hamburger	| H |	2 | 0 | 0 |
 
 ## Post MVP
@@ -70,7 +70,7 @@ https://xd.adobe.com/view/b87a8dc1-340c-4193-5e9b-650c0dd90784-ce4b/
 | Lightbox on Projects	| M |	2 | 0 | 0 |		
 | CSS card animations	| M |	2 | 0 | 0 |		
 | CSS text animations	| L |	2 | 0 | 0 |			
-| Lottiefiles Animations	| L |	1 | 0 | 0 |	
+| Lottiefiles Animations	| L |	1 | 0 | 1 |	
 | Finalize Video & Git Hub Docs	| H |	2 | 0 | 0 |	
 |				
 |TOTAL |	| Estimated 14 hrs for MVP | PostMVP 12 hrs	| -- hrs invested |	-- hrs spent | 
