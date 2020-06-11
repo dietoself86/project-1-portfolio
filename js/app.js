@@ -34,13 +34,11 @@ $.ajax({
 function app(projectsArr) {
     for(let i=0; i < projectsArr.length; i++) {
         let $gridDiv = $('<div>')
-            .attr('class', `gridItem${i + 1}`)
+            .attr('class', ` gridItem gridItem${i + 1}`)
             .css('background-image', `url('${projectsArr[i].image}')`)
             .css('background-size', 'cover')
             .css('background-position', 'center center')
-        // let $a = $("<a>")
-        // $a.attr('href', projectsArr[i].url).attr('target', '_blank')
-        // let $hoverDiv = $('<div>').addClass('project-hover')
+        let $projectInfo = $('<div>').addClass('project-info')   
         let $projectTitle = $('<div>')
             .text(projectsArr[i].title)
             .addClass('project-title');
@@ -54,8 +52,7 @@ function app(projectsArr) {
             .attr('value', 'View Project')
         
         $('.gridContainer').append($gridDiv)
-        $gridDiv.append($projectTitle,$projectDescription, $button)
-        // $gallery.append($a)
-        // $a.append($gridDiv)
+        $gridDiv.append($projectInfo)
+        $projectInfo.append($projectTitle,$projectDescription, $button)
         }
 }

@@ -112,19 +112,56 @@
     background-position: center;
 }
 
+.works .workInfo {
+    padding: 100px;
+    background-color: black;
+    
+}
+
+.works .workInfo .heading {
+    /* color:black; */
+}
+
 .works .gridContainer {
     display: grid;
-    height: 1200px;
-    grid-template-columns: repeat(4 1fr);
-    grid-template-rows: repeat(3 1fr);
-    grid-auto-rows: auto;
-    grid-column-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);    grid-column-gap: 10px;
     grid-row-gap: 10px;
  }
 
  .works .gridContainer .gridItem {
+     position: relative;
+     height: 400px;
      color: white;
-     text-align: end;
+ }
+
+.project-info {
+    position: absolute;
+    padding: 10px;
+    right: 0;
+    bottom:0;
+    background: rgba(0, 0, 0, 0.6);
+    margin-bottom: 1rem;
+}
+
+ .project-title {
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+ .project-description {
+     font-size: .75rem;
+     font-weight: 200;
+     margin-bottom: 1rem;
+ }
+
+ #project-button {
+    width: 100%;
+    background: #ef1d49;
+    color: white;
+    font-size: 1rem;
+    border-bottom:none;
+    border: none;
  }
 
  .works .gridContainer .gridItem1 {
@@ -238,6 +275,9 @@
 
 .tech .contentBox a {
     color:white;
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
     text-decoration: none;
     cursor: pointer;
 }
@@ -283,6 +323,8 @@
     width: 30%;
     margin-right: 50px;
 }
+
+.contact .contentBox
 
 .formBox p {
     color: white;
@@ -362,4 +404,218 @@
 .footer ul li a {
     margin: 0 10px;
     color:white;
+}
+
+@media only screen and (max-width: 900px) {
+
+    .about .contentBox,
+    .about .imgBox {
+        width: 100%;
+        padding: 50px;
+        min-height: 200px;
+    }
+
+    .works .gridContainer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+     }
+
+    .works .gridContainer .gridItem {
+        height: 400px;
+    }
+
+    .works .gridContainer .gridItem1 {
+        grid-column: 1/3;
+        grid-row: 1/2;
+        background:seagreen;
+    }
+   
+    .works .gridContainer .gridItem2 {
+       grid-column: 1/2;
+       grid-row: 2/3;
+       background:goldenrod;
+   }
+   
+   .works .gridContainer .gridItem3 {
+       grid-column: 2/3;
+       grid-row: 2/3;
+       background:blueviolet;
+   }
+   
+   .works .gridContainer .gridItem4 {
+       grid-column: 1/2;
+       grid-row: 3/4;
+       background: red;
+   }
+   
+   .works .gridContainer .gridItem5 {
+       grid-column: 2/3;
+       grid-row: 3/4;
+       background: lightslategray;
+   }
+   
+   .works .gridContainer .gridItem6 {
+       grid-column: 1/2;
+       grid-row: 4/5;
+       background:limegreen;
+   }
+   
+   .works .gridContainer .gridItem7 {
+       grid-column: 2/3;
+       grid-row: 4/5;
+       background:lightcoral;
+   }
+   
+   .works .gridContainer .gridItem8 {
+       grid-column: 1/2;
+       grid-row: 5/6;
+       background:orchid;
+   }
+   
+   .works .gridContainer .gridItem9 {
+       grid-column: 2/3;
+       grid-row: 5/6;
+       background:orange;
+   }
+
+   .tech .contentBox {
+       text-align: center;
+       margin-bottom: 30px;
+   }
+
+   .contact .contentBox {
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+   }
+   
+   .contact .contentBox .formBox {
+       width:100%;
+       text-align: center;
+       margin-right: 0px;
+       margin-bottom: 30px;
+   }
+
+   .contact .contentBox .form {
+       width: 100%;
+   }
+
+    
+}
+
+@media only screen and (max-width: 530px) {
+
+    .hero .content {
+        text-align:center;
+    }
+
+    .hero .content h2 {
+        font-size: 90px;
+        line-height: .9em;
+    }
+
+    .about {
+        flex-direction: column;
+    }
+
+    .works .workInfo .heading {
+        text-align: center;
+    }
+
+    .works .gridContainer{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows:repeat(8, 1fr);
+     }
+
+     .works .gridContainer .gridItem {
+         height:200px;
+     }
+
+     .works .gridContainer .gridItem1 {
+        grid-column: 1/2;
+        grid-row: 1/2;       
+  } 
+     .works .gridContainer .gridItem2 {
+        grid-column: 1/2;
+        grid-row: 2/3;       
+  }
+     .works .gridContainer .gridItem3 {
+        grid-column: 1/2;
+        grid-row: 3/4;       
+  }
+     .works .gridContainer .gridItem4 {
+        grid-column: 1/2;
+        grid-row: 4/5;       
+  }
+     .works .gridContainer .gridItem5 {
+        grid-column: 1/2;
+        grid-row: 5/6;       
+  }
+     .works .gridContainer .gridItem6 {
+        grid-column: 1/2;
+        grid-row: 6/7;       
+  }
+     .works .gridContainer .gridItem7 {
+        grid-column: 1/2;
+        grid-row: 7/8;       
+  }
+     .works .gridContainer .gridItem8 {
+         grid-column: 1/2;
+         grid-row: 8/9;       
+  }
+     .works .gridContainer .gridItem9 {
+         display:none;
+     }
+
+     .skills p {
+         text-align:center;
+         padding: 0 30px
+     }
+
+     .tech {
+         padding: 100px 30px;
+     }
+
+     .tech .contentBox a {
+        color:transparent;
+        -webkit-text-stroke: 1px white;
+        text-decoration: none;
+        cursor: pointer;
+     }
+     
+     .tech .contentBox a:hover {
+         display:none;
+
+     }
+
+     .tech .techBox {
+         flex-direction: column;
+     }
+
+     .contact {
+         padding:0;
+     }
+
+     .contact .contentBox {
+         padding: 30px;
+     }
+
+     .contact .contentBox .formBox {
+         margin-bottom: 30px;
+     }
+
+     .footer {
+         padding: 20px 30px;
+     }
+
+     .form .inputBox input[type='submit'] {
+         width:100%;
+     }
+
+
+
 }
