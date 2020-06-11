@@ -104,7 +104,7 @@
 }
 
 .about .imgBox {
-    background:url('/img/mygoofyface.jpg');
+    background:url('https://res.cloudinary.com/dietoself86/image/upload/v1591912338/general-assembly/mygoofyface.jpg');
     background-color: rgb(192, 202, 212);
     width:50%;
     height: auto;
