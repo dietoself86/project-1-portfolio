@@ -122,6 +122,11 @@
     grid-row-gap: 10px;
  }
 
+ .works .gridContainer .gridItem {
+     color: white;
+     text-align: end;
+ }
+
  .works .gridContainer .gridItem1 {
      grid-column: 1/3;
      grid-row: 1/3;
