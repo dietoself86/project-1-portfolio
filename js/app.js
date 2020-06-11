@@ -6,14 +6,14 @@ const sheetUrl = 'https://docs.google.com/spreadsheets/d/19acem0qb6QWMs5OZVkp1pv
 const sheetAsJSON = 'https://spreadsheets.google.com/feeds/list/19acem0qb6QWMs5OZVkp1pvfOE1b2l9pe5mmPj2hviDE/od6/public/values?alt=json'
 
 
-$(document).ready(function () {
-for (var i = 1; i <= 13; i++) {
-    var $gridDiv = $('<div/>', {
-        "class": ("gridItem" + (i))
-    });
-    $('.gridContainer').append($gridDiv)
-}
-});
+// $(document).ready(function () {
+// for (var i = 1; i <= 13; i++) {
+//     var $gridDiv = $('<div>', {
+//         "class": ("gridItem" + (i))
+//     });
+//     $('.gridContainer').append($gridDiv)
+// }
+// });
 
 $.ajax({
     url: sheetAsJSON
@@ -34,7 +34,7 @@ $.ajax({
 function app(projectsArr) {
     for(let i=0; i < projectsArr.length; i++) {
         let $gridDiv = $('<div>')
-            .attr('class','gridItem')
+            .attr('class', `gridItem${i + 1}`)
             .css('background-image', `url('${projectsArr[i].image}')`)
             .css('background-size', 'cover')
             .css('background-position', 'center center')
