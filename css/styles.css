@@ -413,6 +413,7 @@ nav button {
     font-size: 1.25rem;
     border-bottom:none;
     outline:none;
+    cursor: pointer;
 }
 
 .footer {
