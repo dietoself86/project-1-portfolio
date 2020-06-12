@@ -146,6 +146,7 @@ nav button {
 .works .workInfo {
     padding: 100px;
     background-color: black;
+    border-bottom: 10px solid white;
     
 }
 
@@ -196,6 +197,7 @@ nav button {
  .works .gridContainer .gridItem1 {
      grid-column: 1/3;
      grid-row: 1/3;
+     height: 800px;
      background:seagreen;
  }
 
@@ -470,6 +472,10 @@ nav button {
         min-height: 200px;
     }
 
+    .works .workInfo .heading {
+        text-align: center;
+    }
+
     .works .gridContainer {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -597,10 +603,6 @@ nav button {
 
     .about {
         flex-direction: column;
-    }
-
-    .works .workInfo .heading {
-        text-align: center;
     }
 
     .works .gridContainer{
