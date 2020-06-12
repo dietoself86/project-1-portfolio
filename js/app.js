@@ -58,12 +58,12 @@ function app(projectsArr) {
 }
 
 
-// const $navButton = $('fa-bars')
-// const $nav = $('nav')
+const $navButton = $('.toggle')
+const $nav = $('nav')
 
 
 
 
-$('fa-bars').on('click', () => {
-    $('nav').toggleClass('open')
+$navButton.on('click', () => {
+    $nav.toggleClass('open')
 })
