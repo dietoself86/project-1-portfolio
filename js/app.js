@@ -56,3 +56,14 @@ function app(projectsArr) {
         $projectInfo.append($projectTitle,$projectDescription, $button)
         }
 }
+
+
+// const $navButton = $('fa-bars')
+// const $nav = $('nav')
+
+
+
+
+$('fa-bars').on('click', () => {
+    $('nav').toggleClass('open')
+})
